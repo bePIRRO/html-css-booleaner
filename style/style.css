@@ -35,11 +35,11 @@ nav{
 }
 
 thead{
-    background-color: blue;
+    background-color: rgb(32, 169, 229);
     color: white;
     font-weight: bold;
 }
 
 .blue{
-    background-color: turquoise;
+    background-color: rgb(177, 229, 242);
 }
