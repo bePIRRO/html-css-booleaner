@@ -6,7 +6,7 @@ nav{
     background-image: url(../img/pattern.png);
     background-repeat:repeat-x;
     background-color: rgb(78, 160, 255);
-    background-attachment:fixed;
+    background-attachment:scroll;
     height: 170px;
     margin: auto;
 }
@@ -26,13 +26,10 @@ nav{
 
 
 /* main */
-.photo{
-    margin: auto;
-}
-
 .evidence{
     background-color: yellow;
 }
+
 
 thead{
     background-color: rgb(32, 169, 229);
@@ -44,6 +41,7 @@ thead{
     background-color: rgb(177, 229, 242);
 }
 
+/* footer */
 h3{
     color: grey;
 }
