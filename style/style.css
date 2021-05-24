@@ -34,3 +34,12 @@ nav{
     background-color: yellow;
 }
 
+thead{
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+}
+
+.blue{
+    background-color: turquoise;
+}
