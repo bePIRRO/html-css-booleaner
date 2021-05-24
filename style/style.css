@@ -43,3 +43,23 @@ thead{
 .blue{
     background-color: rgb(177, 229, 242);
 }
+
+h3{
+    color: grey;
+}
+
+.suggest1{
+    color:white;
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+}
+
+.suggest2{
+    color: white;
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 200px;
+}
