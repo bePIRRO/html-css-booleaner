@@ -1,8 +1,21 @@
-header{
+nav{
     background-image: url(../img/pattern.png);
     background-repeat:repeat-x;
     background-color: rgb(78, 160, 255);
     background-attachment:fixed;
     height: 170px;
     margin: auto;
+}
+
+.wrote{
+    color: grey;
+}
+
+.author{
+    color: rgb(78, 160, 255);
+    font-weight: bold;
+}
+
+.time{
+    color: grey;
 }
