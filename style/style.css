@@ -1,4 +1,7 @@
 /* header */
+body{
+    font-size: 18px;
+}
 nav{
     background-image: url(../img/pattern.png);
     background-repeat:repeat-x;
@@ -26,3 +29,8 @@ nav{
 .photo{
     margin: auto;
 }
+
+.evidence{
+    background-color: yellow;
+}
+
