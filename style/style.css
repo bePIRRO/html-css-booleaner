@@ -3,6 +3,7 @@ body{
     font-size: 18px;
     margin: 0;
     padding: 0;
+    padding-bottom: 20px;
 }
 nav{
     background-image: url(../img/pattern.png);
@@ -19,7 +20,7 @@ nav{
     left: 1%;
 }
 
-.wrote{
+.grey{
     color: grey;
 }
 
@@ -28,13 +29,15 @@ nav{
     font-weight: bold;
 }
 
-.time{
-    color: grey;
-}
-
 
 /* main */
-.evidence{
+
+.container{
+    padding-right: 10%;
+    padding-left: 10%;
+}
+
+mark{
     background-color: yellow;
 }
 
@@ -45,27 +48,44 @@ thead{
     font-weight: bold;
 }
 
+table{
+    border-collapse: collapse;
+}
+
+th{
+    text-align: left;
+}
+.w25{
+    width: 25%;
+}
+
+.w50{
+    width: 50%;
+}
+
 .blue{
     background-color: rgb(177, 229, 242);
 }
 
+ul{
+    list-style-position: inside;
+    padding-inline-start: 0;
+}
+
 /* footer */
-h3{
-    color: grey;
-}
 
-.suggest1{
+.related-img{
     color:white;
-    background-image: url(../img/monitor.jpg);
+    font-weight: 600;
+    height: 208px;
     background-repeat: no-repeat;
     background-size: contain;
-    height: 200px;
 }
 
-.suggest2{
-    color: white;
+#suggest1{
+    background-image: url(../img/monitor.jpg);
+}
+
+#suggest2{
     background-image: url(../img/graph.jpg);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 200px;
 }

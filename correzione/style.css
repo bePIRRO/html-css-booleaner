@@ -1,0 +1,56 @@
+/* generics */
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.grey{
+    color: #808080;
+}
+
+/* header */
+
+.mainheader{
+    height: 100px;
+    background-color: #4ea0ff;
+    background-image: url(./img/pattern.png);
+    background-size: 30%;
+}
+
+#logo{
+    margin-top: 30px;
+    height: 50px;
+}
+
+h1{
+    font-size: 38px;
+    margin-bottom: 0;
+}
+
+address{
+    font-style: normal;
+    font-size: 18px;
+}
+
+.author{
+    text-decoration: none;
+}
+
+.small{
+    font-size: 12px;
+}
+
+mark{
+    background-color: yellow;
+}
+
+ul{
+    list-style-position: inside;
+    padding-inline-start: 0;
+    ;
